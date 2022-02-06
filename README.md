@@ -1,4 +1,4 @@
-# HealthcareFraudDetection
+# Healthcare Fraud Detection
 
 ## I. Introduction
 
